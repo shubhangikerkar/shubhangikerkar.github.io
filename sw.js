@@ -1,4 +1,4 @@
-const CACHE = 'done-app-v1';
+const CACHE = 'done-app-v2';
 const ASSETS = [
   './index.html',
   './manifest.json'
